@@ -19,12 +19,7 @@ class script(object):
 ♡︎ ʙᴏᴛ sᴇʀᴠᴇʀ: <a href='https://heroku.com/'>ʜᴇʀᴏᴋᴜ</a>
 ♡︎ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ: <a href='https://t.me/NOKIERUNNOIPPKITTUM'>ᴄʟɪᴄᴋ ᴍᴇ 👈</a>
 ♡︎ ʙᴜɪʟᴅ sᴛᴀᴛᴜs: 𝚅7.6 [ ʙᴇᴛᴀ ]</b>"""
-    SOURCE_TXT = """<b>NOTE:</b>
-- Eva Maria is a open source project. 
-- Source - https://github.com/EvamariaTG/EvaMaria  
-
-<b>DEVS:</b>
-- <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>"""
+    SOURCE_TXT = """<b>എന്തായാലും ഇടുവരെ വന്ന സ്ഥിതിക്ക് ഇന്ന ഈ BUN 🥯 കയിച്ചിട്ട് പോയമദി 💁</b>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
